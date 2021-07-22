@@ -1,5 +1,5 @@
 # QA
 
-To run the test you should:
+To run the tests you should:
 1. Checkout or download the project files
-2. Run the command "mvn test" to execute the tests
+2. Execute the command "mvn test"
